@@ -1,0 +1,2 @@
+room_target_1 = rmFluxExampleTransition_Start;
+room_target_2 = rmFluxExampleTransition_Target;
